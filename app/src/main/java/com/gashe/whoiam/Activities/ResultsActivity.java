@@ -1,4 +1,4 @@
-package com.gashe.whoiam;
+package com.gashe.whoiam.Activities;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -7,6 +7,10 @@ import android.support.v7.widget.DividerItemDecoration;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
+
+import com.gashe.whoiam.R;
+import com.gashe.whoiam.ResultsAdapter;
+import com.gashe.whoiam.Word;
 
 public class ResultsActivity extends AppCompatActivity {
 

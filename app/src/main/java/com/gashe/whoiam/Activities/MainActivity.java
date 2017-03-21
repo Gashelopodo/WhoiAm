@@ -1,4 +1,4 @@
-package com.gashe.whoiam;
+package com.gashe.whoiam.Activities;
 
 import android.app.Activity;
 import android.hardware.Sensor;
@@ -12,6 +12,10 @@ import android.util.Log;
 import android.view.Display;
 import android.view.WindowManager;
 import android.widget.TextView;
+
+import com.gashe.whoiam.Gestures;
+import com.gashe.whoiam.R;
+import com.gashe.whoiam.Word;
 
 public class MainActivity extends AppCompatActivity{
 

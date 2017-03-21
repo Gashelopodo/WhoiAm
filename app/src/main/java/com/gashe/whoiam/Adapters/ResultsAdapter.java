@@ -1,9 +1,13 @@
-package com.gashe.whoiam;
+package com.gashe.whoiam.Adapters;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.gashe.whoiam.R;
+import com.gashe.whoiam.ResultsViewHolder;
+import com.gashe.whoiam.Word;
 
 /**
  * Created by Gashe on 20/3/17.

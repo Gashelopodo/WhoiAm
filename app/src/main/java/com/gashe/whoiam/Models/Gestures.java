@@ -1,4 +1,4 @@
-package com.gashe.whoiam;
+package com.gashe.whoiam.Models;
 
 import android.app.Activity;
 import android.content.Context;
@@ -7,17 +7,11 @@ import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
-import android.os.PowerManager;
 import android.util.Log;
-import android.view.Display;
-import android.view.WindowManager;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import org.w3c.dom.Text;
-
-import java.util.Timer;
-import java.util.TimerTask;
+import com.gashe.whoiam.Activities.ResultsActivity;
+import com.gashe.whoiam.R;
 
 /**
  * Created by Gashe on 20/3/17.

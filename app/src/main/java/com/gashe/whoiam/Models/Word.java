@@ -1,4 +1,4 @@
-package com.gashe.whoiam;
+package com.gashe.whoiam.Models;
 
 import java.io.Serializable;
 
